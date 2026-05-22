@@ -23,3 +23,8 @@ This project allows users to keep track of stock for items listed in the invento
 - CSS
 - JavaScript
 - MySQL
+
+
+## Screenshot
+
+![Inventory Manager UI](screenshots/inventory-ui.png)
